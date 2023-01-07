@@ -2,7 +2,7 @@
 
 An AI clone of Paul Graham
 
-Interactive app: https://louis030195-paul-graham-clone-main-26acgz.streamlit.app/
+Interactive app: https://louis030195-paul-graham-clone-main-8zefq4.streamlit.app/
 
 [Source code](https://github.com/louis030195/paul-graham-clone)
 
